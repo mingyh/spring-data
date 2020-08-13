@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - mybatis@localhost" uuid="81c00381-3bf0-4eb4-8443-3416cf28c1fb">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>mybatis.*</schema-pattern>
+      <default-schemas>mybatis.*</default-schemas>
+    </data-source>
+  </component>
+</project>
